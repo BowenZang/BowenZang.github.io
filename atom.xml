@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BowenZang&#39;s Home</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-02-18T09:00:58.117Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>BowenZang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My awesome title</title>
+    <link href="http://yoursite.com/2019/01/23/demo/"/>
+    <id>http://yoursite.com/2019/01/23/demo/</id>
+    <published>2019-01-23T14:38:54.000Z</published>
+    <updated>2019-02-18T09:00:58.117Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
+  
+</feed>
